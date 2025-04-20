@@ -1,3 +1,6 @@
+This is a cleaned and published version of a private repo, containing only the final version for demonstration purposes.
+
+
 # WhatsApp Integration with Twilio
 
 This module connects incoming WhatsApp messages (via Twilio) to an internal LLM-powered assistant and delivers intelligent replies back to the user over WhatsApp.
